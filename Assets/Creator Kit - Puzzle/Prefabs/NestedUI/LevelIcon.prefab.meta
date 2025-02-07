@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac067dd14f07cda4ea6e16f9a1860c48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/NestedUI/LevelIcon.prefab
+  uploadId: 690891

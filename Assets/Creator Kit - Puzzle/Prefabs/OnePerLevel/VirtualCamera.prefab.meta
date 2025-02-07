@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6ce64d5a355af648bd71071fd0c170d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/OnePerLevel/VirtualCamera.prefab
+  uploadId: 690891

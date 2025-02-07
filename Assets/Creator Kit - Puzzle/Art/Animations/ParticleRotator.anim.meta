@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3b22e0e778b0a3d408946f54443e02ef
+timeCreated: 1502466282
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Art/Animations/ParticleRotator.anim
+  uploadId: 690891

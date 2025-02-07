@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b7fd9122c28c4d15b667c7040e3b3fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Settings/URP-HighFidelity.asset
+  uploadId: 690891

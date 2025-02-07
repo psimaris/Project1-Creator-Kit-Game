@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33562113113d1aa448501adff3c5574e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/PuzzlePieces/RampPuzzlePieces/Ramp_WideToSmallDown.prefab
+  uploadId: 690891

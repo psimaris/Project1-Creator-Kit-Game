@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67bda2e153983f7459ac1bebdf7e08e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/PuzzlePieces/OtherPuzzlePieces/DominoBlock.prefab
+  uploadId: 690891

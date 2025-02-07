@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4da06d0622348f4c9e388a0c2aaf727
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/NestedUI/FaderImage.prefab
+  uploadId: 690891

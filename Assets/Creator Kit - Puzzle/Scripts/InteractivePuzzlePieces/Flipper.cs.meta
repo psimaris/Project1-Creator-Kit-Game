@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eaa35f3555cfd3b438159492830d65b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Scripts/InteractivePuzzlePieces/Flipper.cs
+  uploadId: 690891

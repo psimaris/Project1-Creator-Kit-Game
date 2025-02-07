@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 265978cc11efcb246b02b68be4f3e358
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/OnePerLevel/Goal.prefab
+  uploadId: 690891

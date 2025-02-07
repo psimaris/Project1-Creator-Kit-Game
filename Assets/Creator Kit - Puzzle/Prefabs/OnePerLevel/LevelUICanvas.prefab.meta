@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3aee8a1cad05205468b76c9feb6d5d54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/OnePerLevel/LevelUICanvas.prefab
+  uploadId: 690891

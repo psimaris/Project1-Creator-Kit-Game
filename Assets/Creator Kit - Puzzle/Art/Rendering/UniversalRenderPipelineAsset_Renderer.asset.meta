@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b94c6ec4b5167d343bdb7af4d8941f03
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Art/Rendering/UniversalRenderPipelineAsset_Renderer.asset
+  uploadId: 690891

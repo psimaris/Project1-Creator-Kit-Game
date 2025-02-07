@@ -1,0 +1,17 @@
+This asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+A. Righteous font
+
+Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI)
+(astigma@astigmatic.com), with Reserved Font Names "Righteous"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+B. Skybox_HDR
+
+CC0 1.0 Universal (CC0 1.0)  Public Domain Dedication 
+This is a human-readable summary of the Legal Code (read the full text). 
+Disclaimer 
+

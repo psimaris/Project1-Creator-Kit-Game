@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0722d29167dc2e4ea7c8da59d45a91a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/NestedUI/CompletionUI.prefab
+  uploadId: 690891

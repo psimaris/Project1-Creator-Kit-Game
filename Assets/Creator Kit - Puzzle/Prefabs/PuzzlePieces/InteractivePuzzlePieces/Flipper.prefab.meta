@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5f0b36917babec49ace6e2a1d754be5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/PuzzlePieces/InteractivePuzzlePieces/Flipper.prefab
+  uploadId: 690891

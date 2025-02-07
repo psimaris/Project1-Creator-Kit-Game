@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0478f95790edb8d49bdda38268c49b62
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/OnePerLevel/LevelMusic.prefab
+  uploadId: 690891

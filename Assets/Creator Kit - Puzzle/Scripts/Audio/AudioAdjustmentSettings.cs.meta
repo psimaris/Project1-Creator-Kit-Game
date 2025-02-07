@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06a9c82f1f74f2b439841971676f86fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Scripts/Audio/AudioAdjustmentSettings.cs
+  uploadId: 690891

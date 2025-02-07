@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8040c6372c9c5840aba825cd179c806
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Art/Animations/SceneCompletionButtonsFadeIn.anim
+  uploadId: 690891

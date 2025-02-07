@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fe70d5acac308c4a8a024ca8b29c445
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/PuzzlePieces/RampLayoutGroup/StraightRampPieces.asset
+  uploadId: 690891

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 977e199bde6183f4587263d61f4346ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/OnePerMenu/Main Camera.prefab
+  uploadId: 690891

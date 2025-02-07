@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c83a9a06304bbed4e83d11c9f171d79e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/PuzzlePieces/InteractivePuzzlePieces/Hammer.prefab
+  uploadId: 690891

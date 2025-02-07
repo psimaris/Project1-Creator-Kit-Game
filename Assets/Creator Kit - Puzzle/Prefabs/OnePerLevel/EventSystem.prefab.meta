@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2246734551515049a2f67fd58f6978c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/OnePerLevel/EventSystem.prefab
+  uploadId: 690891

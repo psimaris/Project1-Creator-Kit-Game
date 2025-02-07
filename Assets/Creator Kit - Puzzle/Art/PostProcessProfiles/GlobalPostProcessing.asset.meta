@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9c1943f281a42b4fa94264d41925d1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Art/PostProcessProfiles/GlobalPostProcessing.asset
+  uploadId: 690891

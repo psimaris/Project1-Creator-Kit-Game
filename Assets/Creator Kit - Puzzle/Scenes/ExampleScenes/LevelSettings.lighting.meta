@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 803b01afae686a7418be9637e4ec3526
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/LevelSettings.lighting
+  uploadId: 690891

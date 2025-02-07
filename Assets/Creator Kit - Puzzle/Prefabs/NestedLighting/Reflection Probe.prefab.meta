@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea300cda2265aaa41918492df905946f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149311
+  packageName: 'Unity Learn | Creator Kit: Puzzle | URP'
+  packageVersion: 3.1
+  assetPath: Assets/Creator Kit - Puzzle/Prefabs/NestedLighting/Reflection Probe.prefab
+  uploadId: 690891
